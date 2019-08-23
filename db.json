@@ -39,44 +39,5 @@
             ]
         }
     ],
-    "targets": [
-        {
-            "id": 1,
-            "name": "KRAS",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam lacinia tempor orci, vitae cursus dui gravida elementum. Morbi eu mi ac odio accumsan faucibus eget at orci. Nullam eleifend turpis at egestas fermentum."
-        },
-        {
-            "id": 2,
-            "name": "BRCA2",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam lacinia tempor orci, vitae cursus dui gravida elementum. Morbi eu mi ac odio accumsan faucibus eget at orci. Nullam eleifend turpis at egestas fermentum."
-        }
-    ],
-
-    "status": [
-        {
-            "id": 1,
-            "name": "In-Progress"
-        },
-        {
-            "id": 2,
-            "name": "Queued"
-        },
-        {
-            "id": 3,
-            "name": "Completed"
-        }
-    ],
-    "scientist": [
-        {
-            "id": 1,
-            "name": "Alex",
-            "imageUrl": "https://picsum.photos/id/135/200/200" 
-        },
-        {
-            "id": 2,
-            "name": "Alice",
-            "imageUrl": "https://picsum.photos/id/135/200/200" 
-        }
-    ]
     
 }

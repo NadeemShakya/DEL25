@@ -115,13 +115,13 @@
       ]
     },
     {
-      "id": 1,
-      "name": "Campaign 1",
-      "description": "Campaign 1 Description",
+      "id": 4,
+      "name": "Campaign 4",
+      "description": "Campaign 4 Description",
       "create_date": "2019-08-21",
-      "status": "Queued",
+      "status": "Completed",
       "type": "Hit Selection",
-      "scientist": "Lawrence Copeland",
+      "scientist": "Lawrence Doe",
       "synthesis_type": "",
       "ligands": [
         {
@@ -153,13 +153,13 @@
       ]
     },
     {
-      "id": 1,
-      "name": "Campaign 1",
-      "description": "Campaign 1 Description",
+      "id": 5,
+      "name": "Campaign 5",
+      "description": "Campaign 5 Description",
       "create_date": "2019-08-21",
-      "status": "Queued",
+      "status": "In-Progress",
       "type": "Hit Selection",
-      "scientist": "Lawrence Copeland",
+      "scientist": "Lawrence",
       "synthesis_type": "",
       "ligands": [
         {
@@ -191,14 +191,14 @@
       ]
     },
     {
-      "id": 1,
-      "name": "Campaign 1",
-      "description": "Campaign 1 Description",
+      "id": 6,
+      "name": "Campaign 6",
+      "description": "Campaign 6 Description",
       "create_date": "2019-08-21",
       "status": "Queued",
-      "type": "Hit Selection",
-      "scientist": "Lawrence Copeland",
-      "synthesis_type": "",
+      "type": "Hit Resynthesis Planning",
+      "scientist": "John Doe",
+      "synthesis_type": "Bead",
       "ligands": [
         {
           "id": 1,

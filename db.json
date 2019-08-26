@@ -113,7 +113,121 @@
               "ligand_type": "Competitive"
           }
       ]
-  }          
+  },
+{
+          "id": 1,
+          "name": "Campaign 1",
+          "description": "Campaign 1 Description",
+          "create_date": "2019-08-21",
+          "status": "Queued",
+          "type": "Hit Selection",
+          "scientist": "Lawrence Copeland",
+          "synthesis_type": "",
+          "ligands": [
+              {
+                  "id": 1,
+                  "library_id": 5,
+                  "library_name": "NRX4",
+                  "bb1_dlid": 1234,
+                  "bb1_name": "NRX-1234",
+                  "bb2_dlid": 4567,
+                  "bb2_name": "NRX-4567",
+                  "bb3_dlid": 8901,
+                  "bb3_name": "NRX-8901",
+                  "target_name": "****",
+                  "ligand_type": "Competitive"
+              },
+              {
+                  "id": 2,
+                  "library_id": 5,
+                  "library_name": "NRX4",
+                  "bb1_dlid": 1234,
+                  "bb1_name": "NRX-1234",
+                  "bb2_dlid": 4567,
+                  "bb2_name": "NRX-4567",
+                  "bb3_dlid": 8902,
+                  "bb3_name": "NRX-8902",
+                  "target_name": "****",
+                  "ligand_type": "Competitive"
+              }
+          ]
+      },
+{
+          "id": 1,
+          "name": "Campaign 1",
+          "description": "Campaign 1 Description",
+          "create_date": "2019-08-21",
+          "status": "Queued",
+          "type": "Hit Selection",
+          "scientist": "Lawrence Copeland",
+          "synthesis_type": "",
+          "ligands": [
+              {
+                  "id": 1,
+                  "library_id": 5,
+                  "library_name": "NRX4",
+                  "bb1_dlid": 1234,
+                  "bb1_name": "NRX-1234",
+                  "bb2_dlid": 4567,
+                  "bb2_name": "NRX-4567",
+                  "bb3_dlid": 8901,
+                  "bb3_name": "NRX-8901",
+                  "target_name": "****",
+                  "ligand_type": "Competitive"
+              },
+              {
+                  "id": 2,
+                  "library_id": 5,
+                  "library_name": "NRX4",
+                  "bb1_dlid": 1234,
+                  "bb1_name": "NRX-1234",
+                  "bb2_dlid": 4567,
+                  "bb2_name": "NRX-4567",
+                  "bb3_dlid": 8902,
+                  "bb3_name": "NRX-8902",
+                  "target_name": "****",
+                  "ligand_type": "Competitive"
+              }
+          ]
+      },
+{
+          "id": 1,
+          "name": "Campaign 1",
+          "description": "Campaign 1 Description",
+          "create_date": "2019-08-21",
+          "status": "Queued",
+          "type": "Hit Selection",
+          "scientist": "Lawrence Copeland",
+          "synthesis_type": "",
+          "ligands": [
+              {
+                  "id": 1,
+                  "library_id": 5,
+                  "library_name": "NRX4",
+                  "bb1_dlid": 1234,
+                  "bb1_name": "NRX-1234",
+                  "bb2_dlid": 4567,
+                  "bb2_name": "NRX-4567",
+                  "bb3_dlid": 8901,
+                  "bb3_name": "NRX-8901",
+                  "target_name": "****",
+                  "ligand_type": "Competitive"
+              },
+              {
+                  "id": 2,
+                  "library_id": 5,
+                  "library_name": "NRX4",
+                  "bb1_dlid": 1234,
+                  "bb1_name": "NRX-1234",
+                  "bb2_dlid": 4567,
+                  "bb2_name": "NRX-4567",
+                  "bb3_dlid": 8902,
+                  "bb3_name": "NRX-8902",
+                  "target_name": "****",
+                  "ligand_type": "Competitive"
+              }
+          ]
+      },    
 
   ],
   "targets": [
